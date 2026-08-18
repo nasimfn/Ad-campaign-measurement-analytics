@@ -64,3 +64,4 @@ For each combination, we calculated:
 **Overall → Campaign → Audience → Campaign × Audience**
 
 This progression allows the analysis to move from a high-level measure of campaign effectiveness to specific, actionable insights for campaign and audience strategy.
+<img width="1177" height="665" alt="image" src="https://github.com/user-attachments/assets/6ffa5352-ee7f-426f-9c8c-955187930f59" />
