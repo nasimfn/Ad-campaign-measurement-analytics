@@ -1,3 +1,5 @@
+A synthetic portfolio project demonstrating campaign measurement, treatment-vs-control analysis, audience segmentation, statistical testing, and Power BI reporting.
+
 ## Analysis Approach
 
 The analysis was structured at four levels to move from overall campaign effectiveness to specific audience and campaign insights.
